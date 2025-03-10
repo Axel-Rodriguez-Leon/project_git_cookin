@@ -1,2 +1,2 @@
-# project_git_cookin
+# Project Git Cookin'
 CISC374 Game Project Repository
